@@ -1,6 +1,1 @@
-Group Project: Ideas Board (need analysis)
-• Show contribution of ideas from all team members
-• State clearly what user group is chosen and why
-• Give details of characteristics of chosen user group (who are they?, what do they care about?, what tasks do they need to do?)
-• Think about how to use weather information
-• Identify their needs with respect to using weather information
+![QQ图片20221026164241](https://user-images.githubusercontent.com/109771382/197978587-949d95a2-d48f-4e36-bdb8-d28bc68a4464.png)
